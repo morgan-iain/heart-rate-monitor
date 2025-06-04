@@ -31,7 +31,7 @@ MAX30102 to ESP32 MCU: i2c
 MCU:
 1. freeRTOS
 
-Raspberry Pi:
+Raspberry Pi with 64-bit Raspbian Lite OS:
 1. Serve web page with Apache
 2. Front end: HTML and JavaScript with Chart.js
 3. Backend: Python with bleak and Flask
