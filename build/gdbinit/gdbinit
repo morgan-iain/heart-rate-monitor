@@ -1,0 +1,2 @@
+source /Users/iain/esp/myProjects/heart-rate-monitor/build/gdbinit/symbols
+source /Users/iain/esp/myProjects/heart-rate-monitor/build/gdbinit/connect
