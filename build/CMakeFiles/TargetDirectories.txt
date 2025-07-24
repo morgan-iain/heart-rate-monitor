@@ -10,7 +10,7 @@
 /Users/iain/esp/myProjects/heart-rate-monitor/build/CMakeFiles/flash.dir
 /Users/iain/esp/myProjects/heart-rate-monitor/build/CMakeFiles/encrypted-flash.dir
 /Users/iain/esp/myProjects/heart-rate-monitor/build/CMakeFiles/_project_elf_src.dir
-/Users/iain/esp/myProjects/heart-rate-monitor/build/CMakeFiles/main.elf.dir
+/Users/iain/esp/myProjects/heart-rate-monitor/build/CMakeFiles/heart_rate_monitor.elf.dir
 /Users/iain/esp/myProjects/heart-rate-monitor/build/CMakeFiles/size.dir
 /Users/iain/esp/myProjects/heart-rate-monitor/build/CMakeFiles/size-files.dir
 /Users/iain/esp/myProjects/heart-rate-monitor/build/CMakeFiles/size-components.dir

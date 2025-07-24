@@ -17,4 +17,4 @@ set confirm off
 set confirm on
 
 # Load application symbols
-file /Users/iain/esp/myProjects/heart-rate-monitor/build/main.elf
+file /Users/iain/esp/myProjects/heart-rate-monitor/build/heart_rate_monitor.elf
